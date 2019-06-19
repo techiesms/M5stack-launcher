@@ -8,9 +8,15 @@ https://youtu.be/8Jrg3b2SLMo
 Credits:-
 			
 👍	M5Stack	M5Stack	https://github.com/m5stack/M5Stack
+
 👍	M5StackSam	Tom Such	https://github.com/tomsuch/M5StackSAM
+
 👍	ArduinoJSON	Benoît Blanchon	https://github.com/bblanchon/ArduinoJson/
+
 👍	QRCode	Richard Moore	https://github.com/ricmoo/qrcode
+
 👍	@Reaper7	Reaper7	https://github.com/reaper7
+
 👍	@PartsandCircuits	PartsandCircuits	https://github.com/PartsandCircuits
+
 👍	@lovyan03	らびやん	https://github.com/lovyan03
