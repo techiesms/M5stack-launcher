@@ -1,0 +1,3 @@
+[submodule "LovyanLauncher"]
+	path = LovyanLauncher
+	url = https://github.com/lovyan03/M5Stack_LovyanLauncher
